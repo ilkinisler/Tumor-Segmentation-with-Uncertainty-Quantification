@@ -1,1 +1,1 @@
-# Uncertainty-Quantification-for-Tumor-Segmentation
+# Tumor-Segmentation-with-Uncertainty-Quantification
